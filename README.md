@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Abebe, Fullstack developer currently living in <img src="https://flaticon.com/free-icon/united-states_197484" width="13"/> <b>Mineapolis, Minnesota</b>. </p>
+<p>Welcome to my page! </br> I'm Abebe, Fullstack developer currently living in <img src="https://icons8.com/icon/8H3RoQrvhfs3/first-flag-of-the-usa" width="13"/> <b>Minnesota, USA</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -20,21 +20,16 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
 <h3>My projects</h3>
-<table>
+
+<a href="https://github.com/Abebe-Nigusu/EtikitCinema"><b>EticketCinema</b></a> <br /> <br />
+ <img src="https://github.com/NikitaMears/portfolio/blob/main/photo_2023-05-10_00-19-40.jpg" width="800" height="600" /> 
  
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Abebe-Nigusu/EtikitCinema"><b>ETicketCinema</b></a></td>
-       </tr>
-	  <tr>
-      <td><a href="https://github.com/Abebe-Nigusu/ChatApp"><b>Chat Application</b></a></td>
-         </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-       </tr>
-  </tbody>
-</table>
+ <a href="https://github.com/Abebe-Nigusu/ChatApp"><b>Chat Application</b></a> <br /> <br />
+ <img src="https://github.com/NikitaMears/portfolio/blob/main/photo_2023-05-10_00-28-44.jpg" width="800" height="600" /> 
+ 
+ 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Abebe-Nigusu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abebe-nigusu-0b4b5a275/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
